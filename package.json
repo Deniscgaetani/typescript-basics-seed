@@ -15,10 +15,11 @@
     "typescript"
   ],
   "devDependencies": {
-    "awesome-typescript-loader": "3.4.1",
-    "typescript": "2.6.2",
-    "webpack": "3.10.0",
-    "webpack-dev-server": "^2.9.7"
+    "awesome-typescript-loader": "^5.2.1",
+    "typescript": "^3.2.1",
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
   },
   "author": "Ultimate Angular",
   "license": "MIT",
