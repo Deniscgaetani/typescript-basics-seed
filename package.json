@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/UltimateAngular/typescript-basics-seed/issues"
   },
-  "homepage": "https://github.com/UltimateAngular/typescript-basics-seed#readme"
+  "homepage": "https://github.com/UltimateAngular/typescript-basics-seed#readme",
+  "dependencies": {
+    "tslint": "^5.11.0"
+  }
 }
